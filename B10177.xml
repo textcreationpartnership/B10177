@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the visitation of the right worshipfull Dr. Luddington, the reverend arch-deacon of Stowe, in the Church of S. Paul in Lincoln upon the 28 of April, 1663. / By Willian Towers ...</title>
+            <author>Towers, William, 1617?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10177</idno>
+            <idno type="OCLC"> 80924650</idno>
+            <idno type="STC">Wing T1963</idno>
+            <idno type="STC">ESTC R185406</idno>
+            <idno type="EEBO-CITATION">80924650</idno>
+            <idno type="OCLC">ocm 80924650</idno>
+            <idno type="VID">192100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192100)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2899:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the visitation of the right worshipfull Dr. Luddington, the reverend arch-deacon of Stowe, in the Church of S. Paul in Lincoln upon the 28 of April, 1663. / By Willian Towers ...</title>
+                  <author>Towers, William, 1617?-1666.</author>
+                  <author>Luddington, Dr.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Garthwait,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XI, 30 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192100:1"/>
+            <pb facs="tcp:192100:1" rendition="simple:additions"/>
+            <p>THE Traytors Pilgrimage From the TOWER TO Tyeburn:</p>
+            <p>BEING A true Relation of the drawing of <hi>William</hi> Lord <hi>Mon<g ref="char:EOLhyphen"/>ſon,</hi> Sir <hi>Henry Mildmay,</hi> and Eſquire <hi>Wallop,</hi> upon three ſeveral Sledges on Munday laſt the 27th of this inſtant <hi>January,</hi> being the day that our late Gracious Soveraign King CHARLES received that hor<g ref="char:EOLhyphen"/>rid and moſt unjuſt Sentence to loſe his dear and precious Life before the Gates of his own Royal Palace</p>
+            <p>WITH The manner of the proceedings at <hi>Tyburn,</hi> in Order to the degrading and deveſting them of their former Titles of Honour; and their declaratory Speeches to both the Right Worſhipful Sheriffs of <hi>London</hi> and <hi>Middleſex.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Johnſon,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192100:2"/>
+            <pb n="3" facs="tcp:192100:2"/>
+            <head>A true Relation of the manner how the Priſoners were drawn on a Hurdle on Monday laſt the 27th of this inſtant January, from the Tower of London, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Subjects rebel againſt their Lawful Soveraign, great are the Omens of their deſtruction; and an haſty Sentence once paſt, may be ſooner repented then recal<g ref="char:EOLhyphen"/>led, as it is clearly demonſtrated from the caſe of many of thoſe Members, who ſate in the pretended high Court of Juſtice again our precious and never too much lamented Soveraign King <hi>Char<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> the firſt, of ever bleſſed Memory; many being un<g ref="char:EOLhyphen"/>feignedly ſorrowful, that ever they had a hand in ſo wicked, ſo great, and execrable an Act as to murther ſo pious vertuous, and loving a King, that ſo patiently re<g ref="char:EOLhyphen"/>ceived Martyrdom at the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates of his own Royal Pa<g ref="char:EOLhyphen"/>lace rather then he would betray a good Conſcience, the Kingdoms peace, or the liberty of his Subjects; and as it is expreſt in the Holy writ. <hi>That he that ſheddeth mans blood, by man ſhall his blood be ſhed again</hi> (eſpecial<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:192100:3"/>Royal Blood) there being an expreſs command, <hi>[Touch not the Lords Anointed] &amp;c.</hi> But how contra<g ref="char:EOLhyphen"/>ry to this many have gone, let the World judge. Some have already drank of the bitter Cup of Death for their Diſobedience and Rebellion, others are like to taſte of the Dregs; but thrice happy are they who ſhall walk holy, and in all reverend obedience <hi>fear God and honour the King:</hi> But ſome Zealots of the <hi>Zuingli<g ref="char:EOLhyphen"/>an faction,</hi> ſpreading their woful Schiſms throughout theſe <hi>Brittiſh Iſlands,</hi> many loyal Subjects paid Death for it, whoſe Blood was poured forth like Water in moſt parts of the Kingdom, but no where more aboun<g ref="char:EOLhyphen"/>dant then at <hi>Cromwels-ſlaughter-houſe,</hi> in, and about the City of <hi>London.</hi> And obſerve, the ſtones that they caſt at others fell upon their own heads, for ſeveral changes and mutations hapned, in ſomuch that there was a moſt miraculous deliverance from the hands of Uſurpers, by a providential reſtoring of our dread Soveraign Lord King <hi>Charles</hi> the ſecond, and the bringing of His Majeſties grand Enemies to the Bar of Juſtice, and o<g ref="char:EOLhyphen"/>thers to publick ſhame and diſgrace; amongſt whom the Lord <hi>Mounſon,</hi> Sir <hi>Henry Mildmay,</hi> and Mr. <hi>Robert Wallop,</hi> being all Members of Parliament for conſtitu<g ref="char:EOLhyphen"/>ting of that moſt unjuſt, illegal, and pretended High Court of Juſtice; and although they were not pre<g ref="char:EOLhyphen"/>ſent at the Sentence of the Kings death, yet they were A bettors thereunto; but through the tender mercy of King and Parliament being not immediate, they were excepted for life, and to receive reward according to their merits; which was by the High and Honourable Court of Parliament to be ſecured and kept in ſafe cu<g ref="char:EOLhyphen"/>ſtody, and on the 27th of <hi>January</hi> to be drawn upon a
+<pb n="5" facs="tcp:192100:3"/>Sledge from the Tower of <hi>London</hi> to <hi>Tiburn,</hi> there to be degraded and deveſted from all their Titles of Ho<g ref="char:EOLhyphen"/>nour, which accordingly was put in execution on Mon<g ref="char:EOLhyphen"/>day laſt, but Sir <hi>James Harrington</hi> having made his e<g ref="char:EOLhyphen"/>ſcape prevented that which otherwiſe had been deter<g ref="char:EOLhyphen"/>mined for him.</p>
+            <p>But before we proceed to particulars, obſerve this by the way, That as for <hi>Mildmay,</hi> he was raiſed and prefered by his Majeſty; the King not onely ordering him to be his Jeweller, but preferred him to other pla<g ref="char:EOLhyphen"/>ces of profit, and was in high Truſt as well as in great Gain; And becauſe, as the Proverb goeth, Much would have more, his Covetouſneſs, egged forward by his Ambition to be Great, ſnatching at more then was juſt, laid him open to loſe what was due, and to be de<g ref="char:EOLhyphen"/>prived of his place that formerly was ſo good. Then he, like the unjuſt Steward ſpoken of in the Goſpel, withal alluding to Mr. <hi>Pym,</hi> that grand enemy againſt Monarchy, took unjuſter courſes againſt his Royal Maſter; for he not onely adviſed with himſelf to de<g ref="char:EOLhyphen"/>ſtroy his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty and to deceive him gaining Riches to himſelf, as his falſe Steward that Chriſt ſpea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of, had had ſhewed him the way before; but as After-ages grew more ſubtle, ſo they became more wicked then the former times; even ſo this unjuſt and unthankful Servant became more wicked then before; for ſuch hatred and malice did he lay up againſt his Lord and Maſter the King, that he ſealed it in the depth of his heart, wherein the ſame boiled like New Wine that wanted vent; ſo that it was like Meat and Drink to an hungry Stomack, or thirſty Soul, for him to find any
+<pb n="6" facs="tcp:192100:4"/>opportunity to broach the ſame, and was againſt all Conceſsions of peace with the King; for when the <hi>Eſſex</hi> Petition for a perſonal Treaty with the King [during His Majeſties confinement in the <hi>Iſle</hi> of <hi>Wight</hi>] was publiſhed in <hi>London,</hi> the Printer was ſent for by a Purſivant, and being carried before a Committee where this <hi>Judas Mildmay</hi> was Chairman he uſed theſe words: Sirrah<g ref="char:punc">▪</g> ſirrah, How dare you Print or Pub<g ref="char:EOLhyphen"/>liſh ſuch wicked Papers as theſe, for a perſonal Treaty with him whom we have conquered. To which the Printer replied, That to his apprehenſion and judge<g ref="char:EOLhyphen"/>ment there was nothing therein contained but what was juſt and lawful; whereupon he was committed: But to the deportment of this precious Jeweller and the reſt, upon the Sledge and at <hi>Tiburn,</hi> this is very re<g ref="char:EOLhyphen"/>markable; That,</p>
+            <p>On Munday being the 27 of January, (and the day that our late Gracious Lord and Sove<g ref="char:EOLhyphen"/>reign King Charles, received that moſt horrid excrable, and deteſtable Sentence,) the afore<g ref="char:EOLhyphen"/>ſaid William Lord Mounſon Sir Henry Mild<g ref="char:EOLhyphen"/>may, Robert Wallop Eſquire, were drawn from the Tower of London, on three ſeveral ſledges, with Ropes about their Necks, to Tyburn, be<g ref="char:EOLhyphen"/>ing guarded by the Sheriffs Officers, &amp;c. The firſt was the Lord Mounſon, who lay along in the ſledge, and ſeemed very much dejected, having almoſt the Picture of Death in his face; The ſecond was Sir Henry Mildmay, who lay
+<pb n="7" facs="tcp:192100:4"/>as it were crooked on the ſledge, in a long Gown; And the third was Mr. Wallop, who likewiſe lay in the ſame poſture. But when they came to Tyburn, after ſome Diſcourſe be<g ref="char:EOLhyphen"/>twixt the Worſhipful Sheriffs, and the Priſo<g ref="char:EOLhyphen"/>ners, in order to the Effect and Cauſes of their being brought to that Place, with ſo great and deſerved Reproach and Ignominy: To which the Lord Mounſon deelared, That what he had done, he was ſorry from his very Soul, and had he ten thouſand lives he would facri<g ref="char:EOLhyphen"/>fice them all for the King. The like regret of Spirit were upon the other two, who when they came near to the Gallows, ſhaked their heads, and ſaid, It was but juſt, their ſins had deſerved it. And all three Sledges being drawn under the Gallows, they were afterwards guar<g ref="char:EOLhyphen"/>ded back to the Tower.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
